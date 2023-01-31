@@ -8,4 +8,10 @@ https://my.telegram.org/auth?to=apps
 1.Установить Python
 2.Установить Telethon [pip install telethon]
 3.Указать api_id и api_hash
-4. Запустить [py tgpars.py]
+4.Запустить [py tgpars.py]
+
+
+Сохраняет всех пользователей подписчиков в файл channel_users.json
+Сообщения в файл channel_messages.json
+И пересылает указанному пользователю в сохраненное
+
