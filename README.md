@@ -4,3 +4,8 @@
 https://my.telegram.org/auth?to=apps
 
 Ищет сообщения в чатах по указанному слову (словосочетанию)
+
+1.Установить Python
+2.Установить Telethon [pip install telethon]
+3.Указать api_id и api_hash
+4. Запустить [py tgpars.py]
